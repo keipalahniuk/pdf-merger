@@ -3,8 +3,8 @@ from PyPDF2 import PdfFileMerger
 import os
 
 pdfs_location = (
-    r'D:\plhnk\Documents\Global Riser\178 - PAC_BORA 5 YR'
-    r'\1 Planning\Tools\Equipment Certs\FOR REPORTS')
+    r'D:\path\path1\path path\this is a multiline long'
+    r'\path\pathpath\path\PDF FOLDER')
 
 os.chdir(pdfs_location)
 
